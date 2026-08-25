@@ -1,3 +1,4 @@
-Class a{
-    int a;
+class a{
+    int b;
+    Integer a;
 }
